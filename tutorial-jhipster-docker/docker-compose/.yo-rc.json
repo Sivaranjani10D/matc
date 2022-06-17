@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [],
+    "clusteredDbApps": [],
+    "deploymentType": "docker-compose",
+    "directoryPath": "../",
+    "dockerRepositoryName": "joedata",
+    "gatewayType": "SpringCloudGateway",
+    "jwtSecretKey": "YWNkZWI3YjM1NDU0OWRhYmI1Y2Q2ZGE4MWVmZmMwM2U0NDE5MDYwZGFjNjZlMTcxZDNlZTdiOWUwZGM3Y2EzODQwYTFmMGE2MjRkZjk1NWQ4ZjE0MDYyYTg2NzI5YmY4NzQ5Nw==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka"
+  }
+}
